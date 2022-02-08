@@ -1,1 +1,4 @@
-I have made a change. afd;laksdjf;lakjsdf;lajsdf;ljkadf
+# Git Practice
+
+## Description
+This repository is for practicing our awesome git workflow.
